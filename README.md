@@ -39,7 +39,7 @@ Software is based on ESPhome, and it is hypothetical, as I cannot test it.
 3. Edit the .yaml file to match DEMO.yaml (change pins, codes, passwords etc)
 4. Write to esp
 
-#IMPORTANT
+# IMPORTANT
 - I did not make Esphome.
 - I cannot test the software, so this is hypotethical. When i recieve it, I'll make a v2!!!!
 
