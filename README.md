@@ -24,7 +24,23 @@ Above the esp are the IR recievers.
 ## The pcb layout & wiring
 <img src="images/PCB FINAL.png" alt="PCB layout" width="600">
 This is the final layout design, and the routing done. 
+<img src="images/3d.png" alt="3d render" width="600">
 
-### Broken down:
+### LEDs:
 <img src="images/led layout.png" alt="LED layout" width="600">
+Blue represents TSAL6400 at 45°, Red represents TSAL6100 at 0° in the middle, and 15° in the middle
 
+## Software
+Software is based on ESPhome, and it is hypothetical, as I cannot test it.
+
+**Installation guide**
+1. Install esphome device builder (https://esphome.io/install/)
+2. Create and name a new project
+3. Edit the .yaml file to match DEMO.yaml (change pins, codes, passwords etc)
+4. Write to esp
+
+#IMPORTANT
+- I did not make Esphome.
+- I cannot test the software, so this is hypotethical. When i recieve it, I'll make a v2!!!!
+
+BOM: in bom.csv
