@@ -1,7 +1,4 @@
-"Source:","C:\Users\Bootnrr\Desktop\Stardance\Macropad\real macropad\macropad1\ComMANYcator\untitled.kicad_sch"
-"Date:","2026-10-09T23:54:59"
-"Tool:","Eeschema 10.0.5"
-"Generator:","C:\Program Files\KiCad\10.0\bin\scripting\plugins/bom_csv_grouped_by_value_with_fp.py"
+"Generator:","C:\Program Files\KiCad\10.0\bin\scripting\plugins/bom_csv_grouped_by_value_with_fp.py", "", "", "", "", "", ""
 "Component Count:","41", "", "", "", "", "", ""
 "Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor","DNP"
 "C1","1","3,3nF","C","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm","Unpolarized capacitor","",""
